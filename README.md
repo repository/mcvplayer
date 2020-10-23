@@ -24,7 +24,7 @@ The resource pack used to achieve the full color effect is available [here](http
 `node .`
 
 After it is done, you will have a `.zip` file in `out/` when you can then place in your datapacks folder.
-If you need any help, open an issue or contact me on Discord @stan#1482. I'll try my best to help you.
+If you need any help, open an issue. I'll try my best to help you.
 ## Configuration
 The config file should be named `config.json` and be placed in the root of the project.
 
