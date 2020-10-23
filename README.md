@@ -1,6 +1,7 @@
 # mcvplayer
 A full color video player, entirely within vanila Minecraft
 
+[Demo](https://www.reddit.com/r/Minecraft/comments/jge3id/full_color_video_player_in_vanilla_minecraft/)
 
 This is the encorder portion of the project. It reads videos as a PNG sequence and outputs them in datapack form, ready for you to use.
 
