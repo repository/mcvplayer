@@ -4,9 +4,9 @@ A full color video player, entirely within vanila Minecraft
 
 This is the encorder portion of the project. It reads videos as a PNG sequence and outputs them in datapack form, ready for you to use.
 
-A world file with Bad Apple is included [here](TBD).
+A world file with Bad Apple is included [here](https://github.com/repository/mcvplayer/raw/master/world.zip).
 
-The resource pack used to achieve the full color effect is available [here](TBD).
+The resource pack used to achieve the full color effect is available [here](https://github.com/repository/mcvplayer/raw/master/resources.zip).
 
 ## Instructions
 1. Ensure Node.js is installed (tested on v12.16.1)
@@ -23,8 +23,7 @@ The resource pack used to achieve the full color effect is available [here](TBD)
 `node .`
 
 After it is done, you will have a `.zip` file in `out/` when you can then place in your datapacks folder.
-If you need any help, open an issue or contact me on Discord @ stan#1482
-I'll try my best to help you.
+If you need any help, open an issue or contact me on Discord @stan#1482. I'll try my best to help you.
 ## Configuration
 The config file should be named `config.json` and be placed in the root of the project.
 
